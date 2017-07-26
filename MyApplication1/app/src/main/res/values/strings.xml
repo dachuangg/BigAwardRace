@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="Hello">HelloWord</string>
+    <string name="next_button">Next</string>
+    <string name="menu_settings">Settings</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Anlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater</string>
+    <string name="cancel">取消</string>
+    <string name="login_in">登录</string>
+    <string name="forget_pwd">忘记密码</string>
+    <string name="account">账号</string>
+    <string name="pwd">密码</string>
+</resources>
