@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BigAwardRace</string>
+
+    <string name="app_home">首页</string>
+    <string name="app_discover">发现</string>
+    <string name="app_emporium">商城</string>
+    <string name="app_mine">我的</string>
+    <string name="app_image">图片</string>
+
+    <string name="logon_account">account</string>
+    <string name="logon_password">password</string>
+    <string name="logon">登录</string>
+    <string name="logon_forgetPassword">ForgetPassword</string>
+    <string name="logon_sign_up">Sign Up</string>
+    <string name="logon_others">其他登录方式</string>
+
+    <string name="sign_account">new account</string>
+    <string name="sign_password">new password</string>
+    <string name="sign_phone">new photo</string>
+    <string name="sign_up">注册</string>
+</resources>
